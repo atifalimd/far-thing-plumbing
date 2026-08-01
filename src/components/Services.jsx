@@ -20,7 +20,7 @@ export default function Services() {
             <div>
               <div className="h-48 overflow-hidden bg-gray-100">
                 <img
-                  src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80"
+                  src="/3.JPG"
                   alt="Modern boiler installation"
                   className="w-full h-full object-cover"
                 />
@@ -50,7 +50,7 @@ export default function Services() {
             <div>
               <div className="h-48 overflow-hidden bg-gray-100">
                 <img
-                  src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80"
+                  src="/4.JPG"
                   alt="Boiler repair and maintenance"
                   className="w-full h-full object-cover"
                 />
@@ -80,7 +80,7 @@ export default function Services() {
             <div>
               <div className="h-48 overflow-hidden bg-gray-100">
                 <img
-                  src="https://images.unsplash.com/photo-1584622650111-993a426fbf0a?auto=format&fit=crop&w=600&q=80"
+                  src="./5.JPG"
                   alt="Bathroom plumbing installation"
                   className="w-full h-full object-cover"
                 />
